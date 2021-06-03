@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation. For restoring corporations to their ancient charters, liberties, rights and franchises.</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25141</idno><idno type="EEBO-CITATION">99887736</idno>
+  <idno type="VID">190762</idno>
+  <idno type="EEBO-PROQUEST">2240895266</idno>
+  
+            <idno type="STC">Wing J344</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.3[40]</idno>
+            <idno type="STC">ESTC R228269</idno>
+            <idno type="STC">ESTC R216514</idno>
+            <idno type="STC">ESTC R225733</idno>
+            <idno type="STC">ESTC R228269</idno>
+            <idno type="PROQUEST">ocm99887736</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887736e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25141)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190762)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement C24:1[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation. For restoring corporations to their ancient charters, liberties, rights and franchises.</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by Charles Bill, Henry Hills, and Thomas Newcomb, printers to the King's most Excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The deeds of surrender of corporations are not enrolled, except Thetford, Nottingham, ... Judgements have been entered against London, Chester, ...All corporations are to be restored as they were before any deed of surrender. All officers holding since a surrender removed from place. All deeds of surrender to be cancelled and returned. New charters will be granted. All charters of incorporation granted after 1679 annulled and void." -- Steele.</note>
+                  <note>At foot of text: Given at Our Court at VVhitehall the 17th day of October, 1688. In the fourth year of Our reign.</note>
+                  <note>Steele notation: Arms 102  Bo- solved admit.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:190762:1"/>
+            <head>
+               <figure>
+                  <head>I<seg rend="sup">2</seg> R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </q>
+                  <figDesc>English royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>By the King, A PROCLAMATION.</head>
+            <head type="sub">For Restoring Corporations to their Ancient Charters, Liberties, Rights and Franchises.</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas We are informed that several Deeds of Surrender, which have been lately made by several Corporations and Bo<g ref="char:EOLhyphen"/>dies Corporate, of and in Our Cities and Towns within Our Kingdom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> of their Charters, Franchises and Priviledges, are not yet Recorded or Enrolled: And that upon the Proccedings and Rules for Iudgment, which have lately been had upon the <hi>Quo Warranto's</hi> or Informations in Nature of a <hi>Quo Warranto,</hi> Iudgments are not yet Entred upon Record; Whereupon, notwithstanding new Charters have been granted in the Reign of Our late Dear Brother, and in our Reign; Which said Deeds (being not Inrolled or Recorded) do not amount unto, or in Law make any Surrender of the Charters, Franchises or Liberties therein mentioned; And such of the said Corpora<g ref="char:EOLhyphen"/>tions or Bodies Politick, against which Rules for Iudgments have been made in the Life time of Our late Dear Bro<g ref="char:EOLhyphen"/>ther, or since, in Our Court of King's Bench (but no Iudgments Entred upon Record) are not Discorporate or Dis<g ref="char:EOLhyphen"/>solved; And that it is in Our Power to leave such Corporations in the same Estate and Condition they were in, and to discharge all further Proceedings and Effects that may be of such Rules for Iudgments, and Deeds of Surrender: We do hereby Publish and Declare, That upon due Search and Examination made, We have satisfaction that the Deeds of Surrender made by the Corporations and Bodies Politick of the said Cities and Towns, Except the Corporations following: (that is to say) <hi>Thetford, Nottingham, Bridgewater, Ludlow, Bewdley, Beverley, Teukesbury, Exeter, Doncaster, Colchester, Winchester, Lanceston, Lisderd, Plimpton, Tregoney, Plymouth, Dunwich, St. Ives, Fowy, East-Looe, Camelford, West-Looe, Tintegall, Penryn, Truro, Bodmyn, Hadleigh, Lestwythell,</hi> and <hi>Saltash,</hi> are not Inrolled or Recorded in any of Our Courts: And that though Rules for Iudgments have passed upon Informations in Nature of a <hi>Quo Warranto</hi> against the Corporations and Bodies Politick of several Cities and Towns, in Our said Kingdom and Dominion; Yet no Iudgments have been or are Entred upon Record upon any such Infor<g ref="char:EOLhyphen"/>mations, Except against the City of <hi>London, Chester, Calne, St. Ives, Pool, York, Thaxted, Llanghour,</hi> and <hi>Malmesbury:</hi> And We of Our meer Grace and Fa<g ref="char:EOLhyphen"/>vour, being Resolved to Restore and put all Our Cities, Towns and Burroughs in <hi>England</hi> and <hi>Wales,</hi> and also Our Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> in<g ref="char:EOLhyphen"/>to the same State and Condition they were and was, in Our late Dear Brothers Reign, before any Deed of Surrender was made of their Char<g ref="char:EOLhyphen"/>ters or Franchises, or Proceedings against them or the Corporations or Bodies Politick, in or of the said Cities, Towns or Burroughs upon a<g ref="char:EOLhyphen"/>ny <hi>Quo Warranto</hi> or Informations in Nature of a <hi>Quo Warranto</hi> had. We do hereby therefore Publish, Declare, Direct and Require, That the said Corporations and Bodies Politick and Corporate of all the said Cities, Towns and Burroughs, whose Deeds of Surrender are not Inrolled, nor Iudgments entred against them as aforesaid; And the Mayors, Bayliffs, Sheriffs, Aldermen, Common Council-men, Assistants, Recor<g ref="char:EOLhyphen"/>ders, Town-Clerks, Magistrates, Ministers, Officers, Freemen, and all and every others the Members of or in every of them respe<g ref="char:EOLhyphen"/>ctively upon the Publication of this Our Proclamation, Take on them and Proceed to Act as a Corporation or Body Politick, and where Places are vacant by Death or otherwise, to make Elections, Constitute and Fill up the same, (Notwithstanding the usual Days and Times of Elections by the Ancient Charters and Constitutions shall happen to be past) and to Do, Execute and perform all and every Matter and Thing as they Lawfully might and ought to have done, if no such Deeds of Surrender, Rules for Iudgment, or other Pro<g ref="char:EOLhyphen"/>ceedings upon any such <hi>Quo Warranto</hi> or Informations had been had or made. And for the better effecting Our said Intention, We have by Order made by Vs in Council, and under Our Sign Manual; And We do also by this Our Proclamation made with the Advice of Our said Council, Discharge, Remove, and Dismiss all and every Person and Persons of and from all Offices and Places of Mayors, Bay<g ref="char:EOLhyphen"/>liffs Sheriffs, Aldermen, Common Council-men, Assistants, Recorder, Town-Clerk, and all and every Office and Place, which they or any of them Have or Claim only by Charter, Patent, or Grant from Our Dear Brother, or from Our Self since the Dates of the Respe<g ref="char:EOLhyphen"/>ctive Deeds of Surrender or Rules for Iudgment; Except such Corporations whose Deeds of Surrender are Inrolled or against whom Iudgment is Entred; And that all and every such Person and Persons deliver up into the Hands and Custody of the said Persons hereby ap<g ref="char:EOLhyphen"/>pointed and intended to Act and Execute the said Offices and Places, all and every the Charters, Records, Books, Evidences, and matters concerning the said respective Corporations.</p>
+            <p>And We do hereby further Publish and Declare, That We have caused all and every the said Deeds of Surrender which can be found, to be delivered and put into the Hands of Our Attorney-General, to be by him Cancelled and returned to the Corporations and Bodies Politick of the respective Cities and Towns whom they concern; And have also given to Our said Attorney Authority, and do hereby Warrant and Com<g ref="char:EOLhyphen"/>mand him, not only not to proceed or enter Iudgment upon the said <hi>Quo Warranto's</hi> or Informations, in Nature of a <hi>Quo Warranto,</hi> or any of them, but to enter upon the respective Records, <hi>Noli prosequi's,</hi> and Legal Discharges thereof: And We do hereby Publish and Declare Our further Grace and Favour to the said Cities, Corporations and Burroughs, at any time hereafter, by any further Act to Grant, Confirm or Restore unto them all their Charters, Liberties, Franchises and Priviledges, that at the respective times of such Deeds of Surrender, or Rules for Iudg<g ref="char:EOLhyphen"/>ment made or given, they held or enjoyed. And in order to the perfecting Our said gracious Intentions, We do hereby likewise Publish and De<g ref="char:EOLhyphen"/>clare Our Royal Will and Pleasure as for and concerning the restoring to such of Our Cities, Corporations and Burroughs within our said Kingdom and Dominion, which have made Deeds of Surrender, or have had Iudgment given against them, which Surrenders and Iudgments are Entred of Record, That Our Chancellor, Attorney-General and Sollicitor-General, without Fees to any Officer or Officers whatsoever, upon Application to them made, shall, and they are hereby required to prepare and pass Charters, Instruments, Grants and Letters Patents for the Incorporating, Regranting, Confirming and Restoring to all and every the said Cities, Corporations and Burroughs, their respective Charters, Liberties, Rights, Franchises and Priviledges, and for restoring the respective Mayors, Bayliffs, Recorders, Sheriffs, Town-Clerks, Aldermen, Common Council-men, Assistants, Officers, Magistrates, Ministers and Freemen, as were of such Cities, Corporations or Burroughs at the time of such Deeds of Surrender, or Iudgments respectively given or had, and for the putting them into the same State, Condition and Plight they were in at the times of such Deeds of Surrender, or Iudgments made or given. And whereas divers Burroughs that were not heretofore Corporations, have since the Year One thousand six hundred seventy nine, had Charters of Incorporation Granted and Passed unto them; We hereby further Express and Declare Our Royal Pleasure, to determine and annul the said last mentioned Charters and Corporations; And to that end, We have in pursuance to the Power reserved in the said Charters, by Our Order in Council, and under Our Sign Manual, Removed and Discharged; And We do also by this Our Proclamation, made with the Advice of Our said Council, Remove and Discharge all and every Person of or in the said last mentioned Corporations, of and from all Offices and Places of Mayors, Bayliffs, Recor<g ref="char:EOLhyphen"/>ders, Sheriffs, Aldermen, Common Council-men, Assistants, and of and from all and every other Office and Place from which We have Power reserved by the said Charters respectively, to Remove or Discharge them: And We do hereby Promise and Declare, that We will Do and Consent to all such Acts, Matters and Things as shall be necessary to render these Our gracious Intentions and Purposes effectual, it be<g ref="char:EOLhyphen"/>ing Our gracious Intention to call a Parliament as soon as the general Disturbance of Our Kingdom by the intended Invasion, will admit thereof.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall</hi>
+                  <date>the 17th day of <hi>October,</hi> 1688. In the Fourth Year of Our Reign.</date>
+               </dateline>
+               <lb/> GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Charles Bill, Henry Hills,</hi> and <hi>Thomas Newcomb,</hi> Printers to the Kings Most Excellent Majesty. 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
